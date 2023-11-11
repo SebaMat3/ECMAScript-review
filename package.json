@@ -1,0 +1,20 @@
+{
+  "name": "ecma6",
+  "version": "1.0.0",
+  "description": "\" main ecmascript innovations trough history follow up.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "-",
+    "syntax",
+    "-",
+    "ecmascript",
+    "-",
+    "fundamentals"
+  ],
+  "author": "Sebastian Carballo <sebastiancarballoes@gmail.com>",
+  "license": "MIT"
+}
