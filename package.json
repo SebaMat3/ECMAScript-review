@@ -16,5 +16,6 @@
     "fundamentals"
   ],
   "author": "Sebastian Carballo <sebastiancarballoes@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
