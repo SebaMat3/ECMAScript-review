@@ -17,5 +17,16 @@
   ],
   "author": "Sebastian Carballo <sebastiancarballoes@gmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebaMat3/ECMAScript-review.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SebaMat3/ECMAScript-review/issues"
+  },
+  "homepage": "https://github.com/SebaMat3/ECMAScript-review#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
 }

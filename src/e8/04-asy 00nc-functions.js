@@ -1,7 +1,7 @@
 // Promise
 const asyncFn = () => {
     return new Promise((resolve, reject)=>{
-        //Shorter way to write an If:
+        //Shorter way to write a ternary If:
        (true)
     ? setTimeout(() => resolve ('Async!'), 2000)
     : reject(new Error('Error'));
